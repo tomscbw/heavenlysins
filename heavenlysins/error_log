@@ -1,0 +1,203 @@
+[23-Apr-2014 17:40:40 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/heaven/public_html/heavenlysins/application/controllers/user/user.php on line 49
+[23-Apr-2014 18:09:15 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/heaven/public_html/heavenlysins/application/controllers/user/user.php on line 60
+[23-Apr-2014 18:19:42 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 18:19:42 America/New_York] PHP Fatal error:  Call to a member function getwhere() on a non-object in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 18:26:19 America/New_York] PHP Fatal error:  Call to a member function getwhere() on a non-object in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 18:28:03 America/New_York] PHP Fatal error:  Call to a member function getwhere() on a non-object in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 18:30:27 America/New_York] PHP Fatal error:  Class 'Model' not found in /home/heaven/public_html/heavenlysins/application/models/users.php on line 8
+[23-Apr-2014 18:30:57 America/New_York] PHP Fatal error:  Call to a member function getwhere() on a non-object in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 18:37:21 America/New_York] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[23-Apr-2014 18:42:47 America/New_York] PHP Fatal error:  Call to a member function getwhere() on a non-object in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 18:43:30 America/New_York] PHP Fatal error:  Call to a member function getwhere() on a non-object in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 18:44:28 America/New_York] PHP Fatal error:  Call to a member function getwhere() on a non-object in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 18:45:21 America/New_York] PHP Fatal error:  Call to a member function getwhere() on a non-object in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 18:55:54 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 18:55:54 America/New_York] PHP Fatal error:  Call to a member function getwhere() on a non-object in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 19:00:03 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:00:03 America/New_York] PHP Fatal error:  Call to a member function getwhere() on a non-object in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 19:03:41 America/New_York] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 71 bytes) in /home/heaven/public_html/heavenlysins/system/core/Loader.php on line 650
+[23-Apr-2014 19:04:29 America/New_York] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 71 bytes) in /home/heaven/public_html/heavenlysins/system/core/Loader.php on line 650
+[23-Apr-2014 19:05:09 America/New_York] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 71 bytes) in /home/heaven/public_html/heavenlysins/system/core/Loader.php on line 650
+[23-Apr-2014 19:05:10 America/New_York] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 71 bytes) in /home/heaven/public_html/heavenlysins/system/core/Loader.php on line 650
+[23-Apr-2014 19:05:14 America/New_York] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 71 bytes) in /home/heaven/public_html/heavenlysins/system/core/Loader.php on line 650
+[23-Apr-2014 19:05:27 America/New_York] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 71 bytes) in /home/heaven/public_html/heavenlysins/system/core/Loader.php on line 650
+[23-Apr-2014 19:06:17 America/New_York] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 71 bytes) in /home/heaven/public_html/heavenlysins/system/core/Loader.php on line 650
+[23-Apr-2014 19:06:23 America/New_York] PHP Fatal error:  Cannot redeclare class User in /home/heaven/public_html/heavenlysins/application/models/user.php on line 98
+[23-Apr-2014 19:07:21 America/New_York] PHP Fatal error:  Cannot redeclare class User in /home/heaven/public_html/heavenlysins/application/models/user.php on line 98
+[23-Apr-2014 19:09:29 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:09:29 America/New_York] PHP Fatal error:  Call to a member function getwhere() on a non-object in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 19:11:19 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:11:23 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:11:23 America/New_York] PHP Fatal error:  Call to a member function getwhere() on a non-object in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 19:11:26 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:11:29 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:11:29 America/New_York] PHP Fatal error:  Call to a member function getwhere() on a non-object in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 19:14:01 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:14:05 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:14:05 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::getwhere() in /home/heaven/public_html/heavenlysins/application/models/users.php on line 23
+[23-Apr-2014 19:15:39 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:15:44 America/New_York] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[23-Apr-2014 19:15:47 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:15:55 America/New_York] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[23-Apr-2014 19:20:38 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:22:47 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:24:48 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:26:46 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:26:49 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:27:29 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:27:33 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:29:03 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:30:23 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:30:26 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:32:59 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:33:03 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:34:35 America/New_York] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[23-Apr-2014 19:34:46 America/New_York] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[23-Apr-2014 19:34:58 America/New_York] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[23-Apr-2014 19:35:11 America/New_York] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[23-Apr-2014 19:35:15 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:36:24 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:37:24 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:37:27 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:38:59 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:39:03 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:40:58 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:46:41 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:46:44 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:49:05 America/New_York] CSRF state token does not match one provided.
+[23-Apr-2014 19:49:08 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 10:43:55 America/New_York] PHP Fatal error:  Call to a member function getLogoutUrl() on a non-object in /home/heaven/public_html/heavenlysins/application/controllers/user/user.php on line 36
+[24-Apr-2014 10:44:53 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 10:44:56 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 10:49:03 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 10:52:47 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 10:52:48 America/New_York] PHP Fatal error:  Call to a member function sess_destroy() on a non-object in /home/heaven/public_html/heavenlysins/application/controllers/user/user.php on line 71
+[24-Apr-2014 10:56:52 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 10:56:55 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:00:32 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:00:46 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:02:55 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:03:09 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:05:34 America/New_York] PHP Parse error:  syntax error, unexpected T_PROTECTED in /home/heaven/public_html/heavenlysins/application/controllers/user/user.php on line 64
+[24-Apr-2014 11:06:24 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:06:35 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:07:49 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:07:50 America/New_York] PHP Fatal error:  Call to protected method Facebook::clearAllPersistentData() from context 'User' in /home/heaven/public_html/heavenlysins/application/controllers/user/user.php on line 62
+[24-Apr-2014 11:09:59 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:10:13 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:12:55 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:13:07 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:15:18 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:16:41 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:20:46 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:29:11 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/heaven/public_html/heavenlysins/application/controllers/user/user.php on line 4
+[24-Apr-2014 11:30:12 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:38:24 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:42:00 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:45:48 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:52:16 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 11:52:20 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 12:12:29 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/heaven/public_html/heavenlysins/application/models/users.php on line 34
+[24-Apr-2014 12:13:50 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 12:19:04 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 12:22:31 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 12:24:46 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 12:28:21 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 12:28:21 America/New_York] PHP Fatal error:  Call to undefined function now() in /home/heaven/public_html/heavenlysins/application/models/users.php on line 33
+[24-Apr-2014 12:31:19 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 12:31:23 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 12:33:32 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 12:35:14 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 12:44:39 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 13:35:27 America/New_York] PHP Parse error:  syntax error, unexpected T_ECHO in /home/heaven/public_html/heavenlysins/application/views/user/user_sign_up.php on line 14
+[24-Apr-2014 14:26:55 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/heaven/public_html/heavenlysins/application/controllers/user/user.php on line 89
+[24-Apr-2014 18:04:01 America/New_York] CSRF state token does not match one provided.
+[24-Apr-2014 19:30:10 America/New_York] CSRF state token does not match one provided.
+[29-Apr-2014 12:40:25 America/New_York] PHP Fatal error:  Call to undefined function base_url() in /home/heaven/public_html/heavenlysins/application/views/templates/header.php on line 6
+[29-Apr-2014 12:40:27 America/New_York] PHP Fatal error:  Call to undefined function base_url() in /home/heaven/public_html/heavenlysins/application/views/templates/header.php on line 6
+[29-Apr-2014 12:40:35 America/New_York] PHP Fatal error:  Call to undefined function base_url() in /home/heaven/public_html/heavenlysins/application/views/templates/header.php on line 6
+[29-Apr-2014 12:43:10 America/New_York] PHP Fatal error:  Call to undefined function base_url() in /home/heaven/public_html/heavenlysins/application/views/templates/header.php on line 6
+[29-Apr-2014 16:16:03 America/New_York] PHP Parse error:  syntax error, unexpected T_ELSE in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 23
+[29-Apr-2014 16:39:53 America/New_York] PHP Fatal error:  Cannot redeclare Users::addfeed() in /home/heaven/public_html/heavenlysins/application/models/users.php on line 79
+[30-Apr-2014 11:20:37 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 17
+[30-Apr-2014 11:39:10 America/New_York] PHP Fatal error:  Call to undefined function get_day_name() in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 31
+[30-Apr-2014 11:39:26 America/New_York] PHP Fatal error:  Call to undefined function now() in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 17
+[30-Apr-2014 11:39:27 America/New_York] PHP Fatal error:  Call to undefined function now() in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 17
+[30-Apr-2014 11:40:08 America/New_York] PHP Fatal error:  Call to undefined function now() in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 17
+[01-May-2014 11:17:04 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 30
+[01-May-2014 11:17:09 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 30
+[02-May-2014 16:19:12 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 32
+[02-May-2014 16:28:08 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 33
+[02-May-2014 16:34:14 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 31
+[02-May-2014 16:34:14 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 31
+[02-May-2014 16:34:14 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 31
+[02-May-2014 16:34:14 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 31
+[02-May-2014 16:34:16 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 31
+[02-May-2014 16:34:16 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 31
+[02-May-2014 16:34:17 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 31
+[02-May-2014 16:35:10 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 31
+[02-May-2014 16:35:13 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 31
+[02-May-2014 16:35:14 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 31
+[06-May-2014 14:58:08 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/heaven/public_html/heavenlysins/application/views/user/userfeed.php on line 341
+[06-May-2014 14:58:10 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/heaven/public_html/heavenlysins/application/views/user/userfeed.php on line 341
+[06-May-2014 15:19:10 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::order_by() in /home/heaven/public_html/heavenlysins/application/models/users.php on line 104
+[06-May-2014 15:23:13 America/New_York] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/heaven/public_html/heavenlysins/application/models/users.php on line 107
+[06-May-2014 15:23:16 America/New_York] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/heaven/public_html/heavenlysins/application/models/users.php on line 107
+[06-May-2014 16:46:05 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/heaven/public_html/heavenlysins/application/models/users.php on line 121
+[08-May-2014 11:30:40 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/heaven/public_html/heavenlysins/application/models/users.php on line 158
+[08-May-2014 12:13:19 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 129
+[08-May-2014 13:58:16 America/New_York] PHP Fatal error:  Cannot redeclare Userfeed::sins() in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 59
+[08-May-2014 13:58:18 America/New_York] PHP Fatal error:  Cannot redeclare Userfeed::sins() in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 59
+[08-May-2014 13:59:11 America/New_York] PHP Fatal error:  Call to undefined function isfeedhevean() in /home/heaven/public_html/heavenlysins/application/models/users.php on line 195
+[08-May-2014 14:47:46 America/New_York] PHP Parse error:  syntax error, unexpected $end, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 140
+[12-May-2014 15:46:45 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 15:47:04 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 15:48:29 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 15:50:51 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 15:53:16 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 15:55:19 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 15:59:23 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/heaven/public_html/heavenlysins/application/controllers/user/user.php on line 106
+[12-May-2014 16:03:04 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:18:01 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:20:25 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:20:28 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:24:11 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:24:15 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:25:39 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:25:43 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:29:35 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:30:34 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:32:21 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:32:25 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:50:14 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:52:00 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:52:04 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:53:07 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:53:11 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:54:24 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:54:28 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 16:57:06 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 18:07:52 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 18:08:57 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 18:11:50 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 18:14:28 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 18:16:26 America/New_York] CSRF state token does not match one provided.
+[12-May-2014 18:19:22 America/New_York] CSRF state token does not match one provided.
+[13-May-2014 11:45:22 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/heaven/public_html/heavenlysins/application/controllers/user/feedcomment.php on line 18
+[13-May-2014 11:46:06 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::get() in /home/heaven/public_html/heavenlysins/application/models/feedcomments.php on line 51
+[13-May-2014 11:48:12 America/New_York] PHP Fatal error:  Call to undefined function getcomments() in /home/heaven/public_html/heavenlysins/application/controllers/user/feedcomment.php on line 17
+[13-May-2014 12:12:23 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/heaven/public_html/heavenlysins/application/controllers/user/feedcomment.php on line 45
+[13-May-2014 12:13:09 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/heaven/public_html/heavenlysins/application/controllers/user/feedcomment.php on line 54
+[13-May-2014 12:13:11 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/heaven/public_html/heavenlysins/application/controllers/user/feedcomment.php on line 54
+[13-May-2014 12:13:12 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/heaven/public_html/heavenlysins/application/controllers/user/feedcomment.php on line 54
+[13-May-2014 12:18:48 America/New_York] PHP Fatal error:  Class 'Feedcomment' not found in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 3
+[13-May-2014 12:27:00 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::get() in /home/heaven/public_html/heavenlysins/application/models/feedcomments.php on line 55
+[13-May-2014 13:36:15 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 144
+[13-May-2014 15:10:00 America/New_York] PHP Fatal error:  Cannot redeclare Feedcomments::total_h() in /home/heaven/public_html/heavenlysins/application/models/feedcomments.php on line 108
+[13-May-2014 15:10:04 America/New_York] PHP Fatal error:  Cannot redeclare Feedcomments::total_h() in /home/heaven/public_html/heavenlysins/application/models/feedcomments.php on line 108
+[13-May-2014 15:16:44 America/New_York] PHP Fatal error:  Class 'Feedcomment' not found in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 4
+[13-May-2014 15:54:46 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/heaven/public_html/heavenlysins/application/models/users.php on line 234
+[13-May-2014 15:59:46 America/New_York] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed1.php on line 238
+[13-May-2014 16:02:04 America/New_York] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed1.php on line 238
+[13-May-2014 17:59:14 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 210
+[13-May-2014 17:59:14 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/heaven/public_html/heavenlysins/application/controllers/user/userfeed.php on line 210
